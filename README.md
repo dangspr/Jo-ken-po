@@ -26,7 +26,7 @@ Essa é uma das atividades práticas do curso CTD da Digital House (Front-endII)
 
 <!--layout-->
 ## 🚀  Tecnologias 
-- [x]  **REACT**
+- [x]  **JS**
 - [x] **HTML**
 - [x] **CSS**
 
@@ -39,7 +39,7 @@ Essa é uma das atividades práticas do curso CTD da Digital House (Front-endII)
 ### Este projeto está sob a licença [MIT](./LICENSE).
 ---
 
-<h4 align=center>Desenvolvido Danilo Gaspar <a href="https://idolink.bio/redessociaisdg"> <strong>Entre em contato</strong> :)</a></a></h4>
+<h4 align=center>Desenvolvido jandersongarcia e Revisado por Danilo Gaspar <a href="https://idolink.bio/redessociaisdg"> <strong>Entre em contato</strong> :)</a></a></h4>
 
 
 
