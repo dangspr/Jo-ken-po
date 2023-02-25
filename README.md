@@ -1,13 +1,45 @@
-# PROJETO COMPLETO JAVASCRIPT
-## Pedra-Papel-Tesoura (Jo-Ken-Pô)
+<p align="center">
+   <img src="" alt="" />
+</p>
 
-Para fins de estudo, um jogo em JavaScript com seu layout feito com CSS.
-Uma excelente oportunidade para aprender alguns comandos CSS e um pouco de lógica de programação com JavaScript.
-Você pode acompanhar o link da aula no Youtute 👉 https://youtu.be/Rc2uN7MU8Bo
+<!-- Badges -->
+<p align="center">
+   <a href="https://www.linkedin.com/in/danilo-gaspar98/">
+      <img alt="Danilo Gaspar" src="https://img.shields.io/badge/LinkedIn%20--%20-Danilo%20Gaspar-blue" />
+   </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
+</p>
 
-# COMPLETE JAVASCRIPT PROJECT
-## Rock-Paper-Scissors (Jo-Ken-Pô)
+<!-- Indice-->
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-Tecnologias">Tecnologias</a> • 
+ <a href="#-licença">Licença</a>
+</p>
 
-For study purposes, a JavaScript game with its layout made with CSS.
-An excellent opportunity to learn some CSS commands and some JavaScript programming logic.
-You can follow the class link on Youtube 👉 https://youtu.be/Rc2uN7MU8Bo
+<!--Sobre o projeto-->
+## 💻 Sobre o projeto
+
+Essa é uma das atividades práticas do curso CTD da Digital House (Front-endII). 
+
+
+
+<!--layout-->
+## 🚀  Tecnologias 
+- [x]  **REACT**
+- [x] **HTML**
+- [x] **CSS**
+
+
+#### Ferramentas
+- [**VS CODE**]()
+
+<!--License session-->
+## 📝 Licença
+### Este projeto está sob a licença [MIT](./LICENSE).
+---
+
+<h4 align=center>Desenvolvido Danilo Gaspar <a href="https://idolink.bio/redessociaisdg"> <strong>Entre em contato</strong> :)</a></a></h4>
+
+
+
